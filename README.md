@@ -10,3 +10,4 @@ field.
 
 To execute the code: Run python AU_Crawl.py
 Please Note: The output files are generated on runtime when the code is executed
+Python version: 2.7.12
